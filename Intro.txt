@@ -1,2 +1,2 @@
 echo "hii my name is Jyoti Yadav
-iwant to become a software developer"
+I want to become a software developer"
